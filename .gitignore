@@ -1,0 +1,4 @@
+tf_logs/
+MNIST_data/
+__pycache__/
+.ipynb_checkpoints/
