@@ -1,6 +1,6 @@
 # Tensorflow Graph Utils
 
-A lightweight Tensorflow Graph visualization / editing module.
+A simple Tensorflow Graph visualization / editing module.
 
 ## Graph Editing
 
